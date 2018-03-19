@@ -1,0 +1,115 @@
+
+.thumbnail {
+    padding: 10px;
+    background-color: white;
+    
+    border-radius: 0px;    
+}
+body{
+  
+    background-size: contain;
+}
+.thumbnail>img{
+    max-height: 240px;
+    
+}
+
+.btn {
+    
+    font-size: 16px;
+padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+}
+.thumbnail>p{
+    text-align: center;
+}
+.btn:hover {
+    color:white;
+    
+    
+    
+}
+footer{
+    
+    margin-top: 100px;
+}
+.col-lg-4>p{
+    text-align: center;
+}
+.container.main{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.thumbnail:hover{
+    box-shadow: 0px 0px 20px 1px #333;
+}
+
+
+.choise {
+    margin-bottom: 80px;
+    margin-top: 50px;
+}
+.choise>h4{
+    color: #777;
+    font-style: italic;
+}
+
+.btn-success {
+    border-radius: 5px;
+    background-color: green;
+    
+}
+.container.chose{
+    
+}
+.img_rel {
+    position: relative;
+}
+
+span {
+    position: absolute;
+}
+
+.checkbox.my {
+    margin-left: 20px;
+    background-color: #333;
+}
+
+
+
+.cheboxname {
+    margin: 0px;
+}
+label:nth-child(2)
+{
+    margin: 0px;
+}
+
+.prop {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.checklabel {
+    padding-left: 0px;
+    padding-bottom: 0px;
+    
+    margin: 15px;
+}
+
+
+
+
+
+.succes {
+    background-color: green;
+    color: white;
+}
+
+.prev {
+    background-color: gold;
+    color: black;
+}
+
+
