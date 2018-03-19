@@ -3,7 +3,7 @@
 # Interactive interface for bike shop(prototype)
 
 My name is Stanislav Mostovych  and i like hiking  and ride mountain bike. I have many years experience to do that. When i studied at University i created some innovation project to help companies and customers. Because many times people asked me can you help me buy a bike, also when people don't have any experience how choose best product for self, they buy product and dont have satisfaction. I started thinking how i can help them.
-I created simple and usability interface. This interface can help people choose best product, and they spent small time to do that.
+I created simple and usability interface. This interface can help people choose best productfor their preferenceses, and they spent less time to do that.
 
 
 On image below we can see home page and first step to help customers choose product.
